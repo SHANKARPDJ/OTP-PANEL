@@ -5,12 +5,5 @@
         "password": "shiva",
         "expiresAt": "2025-07-02",
         "allowOffline": true
-    },
-    {
-        "id": "Hfffhg",
-        "username": "F",
-        "password": "Fcdg",
-        "expiresAt": "2025-06-28",
-        "allowOffline": false
     }
 ]
