@@ -4,7 +4,7 @@
     "username": "shiva",
     "password": "shiva",
     "expiresAt": "2025-12-12",
-    "allowOffline": true
+    "allowOffline": false
   },
   {
     "id": "android_device_id_2",
