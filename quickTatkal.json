@@ -12,5 +12,12 @@
         "password": "deepak123",
         "expiresAt": "2025-07-02",
         "allowOffline": false
+    },
+    {
+        "id": "7e9f933e71a5acb3",
+        "username": "koleshwar",
+        "password": "koleshwar",
+        "expiresAt": "2025-07-06",
+        "allowOffline": true
     }
 ]
