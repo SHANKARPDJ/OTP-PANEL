@@ -26,5 +26,12 @@
         "password": "pc1",
         "expiresAt": "2025-07-06",
         "allowOffline": true
+    },
+    {
+        "id": "b580029f9573a234",
+        "username": "pc1",
+        "password": "pc1",
+        "expiresAt": "2025-07-06",
+        "allowOffline": true
     }
 ]
