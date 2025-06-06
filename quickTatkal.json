@@ -19,5 +19,12 @@
         "password": "koleshwar",
         "expiresAt": "2025-07-06",
         "allowOffline": true
+    },
+    {
+        "id": "da538eb62ad27871",
+        "username": "pc",
+        "password": "pc",
+        "expiresAt": "2025-06-30",
+        "allowOffline": true
     }
 ]
