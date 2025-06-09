@@ -1,1 +1,9 @@
-[]
+[
+    {
+        "id": "e42cfdc6863d76d9",
+        "username": "shiva",
+        "password": "shiva",
+        "expiresAt": "2145-06-10",
+        "allowOffline": true
+    }
+]
