@@ -1,8 +1,20 @@
 {
   "dialog": {
-    "show": true,
+    "show": false,
     "type": "update",
-    "message": "🔁 New version available! Please update.",
-    "downloadUrl": "https://example.com/your-update.zip"
+    "message": " New version available! Please update.",
+    "downloadUrl": "https://example.com/update.zip"
+  }
+}
+
+
+
+
+{
+  "dialog": {
+    "show": true,
+    "type": "information",
+    "message": " Just a reminder: Use the tool wisely.",
+    "downloadUrl": ""
   }
 }
