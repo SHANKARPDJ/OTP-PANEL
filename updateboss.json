@@ -1,7 +1,7 @@
 {
   "dialog": {
     "show": true,
-    "type": "update", // change to "information" for info mode
+    "type": "update",
     "message": "🔁 New version available! Please update.",
     "downloadUrl": "https://example.com/your-update.zip"
   }
