@@ -1,0 +1,19 @@
+{
+  "version": "1.9.1",
+  "dialogs": [
+    {
+      "type": "update",
+      "show": true,
+      "message": "Update available !",
+      "message1": "New features added in 2.0.1.",
+      "downloadUrl": "https://example.com/update.zip"
+    },
+    {
+      "type": "information",
+      "show": true,
+      "message": "information available !",
+      "message1": "fast payment gateway PayU ",
+      "downloadUrl": ""
+    }
+  ]
+}
