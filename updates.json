@@ -10,7 +10,7 @@
     },
     {
       "type": "information",
-      "show": true,
+      "show": false,
       "message": "information available !",
       "message1": "fast payment gateway PayU ",
       "downloadUrl": ""
