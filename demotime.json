@@ -1,0 +1,7 @@
+{
+  "start": "9:30",
+  "end": "11:30",
+  "box": {
+    "autoCaptcha": true
+  }
+}
