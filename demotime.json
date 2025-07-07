@@ -2,7 +2,7 @@
   "start": "5:30",
   "end": "11:30",
   "box": {
-    "autoCaptcha": false
+    "autoCaptcha": true
   }
 }
  
