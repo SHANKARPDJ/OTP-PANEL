@@ -5,8 +5,8 @@
       "type": "update",
       "show": true,
       "message": "Update available !",
-      "message1": "New features added in 2.0.1.",
-      "downloadUrl": "https://example.com/update.zip"
+      "message1": "New features added in 1.6.6.",
+      "downloadUrl": "https://bigboss.alc.lat/index.php"
     },
     {
       "type": "information",
